@@ -1,0 +1,3 @@
+{"question": "What does RAG combine?", "contexts": ["Retrieval-Augmented Generation (RAG) combines information retrieval with text generation."], "answer": "RAG combines retrieval and generation.", "ground_truths": ["RAG combines retrieval and generation."]}
+{"question": "Why use reranking?", "contexts": ["Reranking helps surface the most relevant chunks at the top when the retriever returns many candidates."], "answer": "To order results by relevance.", "ground_truths": ["To order results by relevance."]}
+
